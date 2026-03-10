@@ -5,7 +5,7 @@ if not istable(RADIOIFACE) then
 end
 
 RADIOIFACE.name = "Dropbox"
-RADIOIFACE.priority = 200
+RADIOIFACE.priority = 100
 RADIOIFACE.online = true
 RADIOIFACE.cache = false
 
